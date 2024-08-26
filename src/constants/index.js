@@ -40,7 +40,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "Simple Bank Managemenet System using Python",
-    technologies: ["PHP"],
+    technologies: ["Python"],
     link:"https://github.com/NavodPriyashan/Bank_Mangement_System"
   },
 ];
