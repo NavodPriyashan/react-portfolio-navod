@@ -2,6 +2,9 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
+import project6 from "../assets/projects/project-6.jpg";
+import project7 from "../assets/projects/project-7.jpg";
 
 export const HERO_CONTENT = `I am a passionate web and software developer with a strong focus on crafting robust and scalable applications. With hands-on experience, I have honed my skills in front-end technologies like React, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences..`;
 
@@ -43,6 +46,32 @@ export const PROJECTS = [
     technologies: ["PHP"],
     link:"https://github.com/NavodPriyashan/Bank_Mangement_System"
   },
+  {
+    title: "Loacation tracker using Phone Number",
+    image: project5,
+    description:
+      "Track someone location with phone number - Google Map.",
+    technologies: ["Python"],
+    link:"https://github.com/NavodPriyashan/TrackLocation"
+  },
+  {
+    title: "Weather Application",
+    image: project6,
+    description:
+      "Simple Weather App using Python and use openweathermap API",
+    technologies: ["Python"],
+    link:"https://github.com/NavodPriyashan/WeatherApp"
+  },
+  {
+    title: "Calculater App",
+    image: project7,
+    description:
+      "New Calculator App Built with Flutter",
+    technologies: ["Flutter"],
+    link:"https://github.com/NavodPriyashan/calculater_app"
+  },
+
+
 ];
 
 export const CONTACT = {
