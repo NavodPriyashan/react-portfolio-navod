@@ -36,7 +36,7 @@ const SkillsEducationCertifications = () => {
                     transition={{duration: 2.5}}
                     >
                         <span className="font-semibold text-neutral-300">Frameworks: </span> 
-                         React Native
+                         React, Flutter
                     </motion.li>
 
                     <motion.li
