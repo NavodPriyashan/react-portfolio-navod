@@ -5,6 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
 import project6 from "../assets/projects/project-6.jpg";
 import project7 from "../assets/projects/project-7.jpg";
+import project8 from "../assets/projects/project-8.png";
 
 export const HERO_CONTENT = `I am a passionate web and software developer with a strong focus on crafting robust and scalable applications. With hands-on experience, I have honed my skills in front-end technologies like React, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences..`;
 
@@ -73,7 +74,7 @@ export const PROJECTS = [
   {
     
     title: "ToDo App",
-    image: project7,
+    image: project8,
     description:
       "The app allows users to create, update, delete, and mark tasks as completed in real time.",
     technologies: ["Flutter","FireBase"],
