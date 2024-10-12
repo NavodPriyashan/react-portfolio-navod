@@ -70,6 +70,15 @@ export const PROJECTS = [
     technologies: ["Flutter"],
     link:"https://github.com/NavodPriyashan/calculater_app"
   },
+  {
+    
+    title: "ToDo App",
+    image: project7,
+    description:
+      "The app allows users to create, update, delete, and mark tasks as completed in real time.",
+    technologies: ["Flutter","FireBase"],
+    link:"https://github.com/NavodPriyashan/todoapp"
+  },
 
 
 ];
